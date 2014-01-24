@@ -1,0 +1,8 @@
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoSimpleServoControl\ArduinoSimpleServoControl\bin\Debug\ArduinoSimpleServoControl.exe
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoSimpleServoControl\ArduinoSimpleServoControl\bin\Debug\ArduinoSimpleServoControl.pdb
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoSimpleServoControl\ArduinoSimpleServoControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoSimpleServoControl\ArduinoSimpleServoControl\obj\Debug\ArduinoSimpleServoControl.JanelaPrincipal.resources
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoSimpleServoControl\ArduinoSimpleServoControl\obj\Debug\ArduinoSimpleServoControl.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoSimpleServoControl\ArduinoSimpleServoControl\obj\Debug\ArduinoSimpleServoControl.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoSimpleServoControl\ArduinoSimpleServoControl\obj\Debug\ArduinoSimpleServoControl.exe
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoSimpleServoControl\ArduinoSimpleServoControl\obj\Debug\ArduinoSimpleServoControl.pdb

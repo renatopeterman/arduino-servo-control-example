@@ -1,0 +1,8 @@
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\bin\Debug\ArduinoServoControl.exe
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\bin\Debug\ArduinoServoControl.pdb
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Debug\ArduinoServoControl.JanelaPrincipal.resources
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Debug\ArduinoServoControl.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Debug\ArduinoServoControl.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Debug\ArduinoServoControl.exe
+C:\Users\Administrador\Documents\Visual Studio 2008\Projects\ArduinoServoControl\ArduinoServoControl\obj\Debug\ArduinoServoControl.pdb
