@@ -5,7 +5,6 @@
  * uma porta serial.
  * 
  * Autor: Renato Peterman
- * E-mail: 
  * 
  * Data: 26/07/2010
  * 
